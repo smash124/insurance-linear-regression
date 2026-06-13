@@ -1,3 +1,4 @@
+
 # Insurance Charges Prediction — Linear Regression Model
 
 This project explores the classic *insurance.csv* dataset and builds a clean, interpretable Linear Regression model to predict medical insurance charges based on age, BMI, smoking status, region, and other personal attributes.
@@ -50,3 +51,6 @@ The project includes:
 ## 🌿 Author
 
 Created by Sherif — blending data science with clarity, structure and a warm human touch.
+=======
+# insurance-linear-regression
+>>>>>>> c37153633fab5ae78e4f22b91f51108f51898a03
